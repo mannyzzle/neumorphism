@@ -5,32 +5,44 @@
 # - name: Git
 #   weight: 5
 
+- name: Vim
+  weight: 3
+
 - name: Git
-  weight: 5
-
-- name: Bash
-  weight: 3
-
-- name: Scrum
-  weight: 3
-
-- name: Travis CI
-  weight: 1
-
-- name: Jenkins
-  weight: 1
-
-- name: Chrome DevTools
-  weight: 2
-
-- name: npm
-  weight: 2
-
-- name: gulp
   weight: 4
 
-- name: VS Code
+- name: GitHub Desktop
+  weight: 4
+
+- name: GitHub
+  weight: 5
+
+- name: NoSQL
   weight: 3
 
-- name: Postman
+- name: Bash
+  weight: 4
+
+- name: Linux
+  weight: 3
+
+- name: MongoDB
+  weight: 3
+
+- name: brew
+  weight: 3
+
+- name: Pytorch
+  weight: 4
+
+- name: Pymc
+  weight: 4
+
+- name: Jekyll
+  weight: 1
+
+- name: JupyterLab
+  weight: 5
+
+- name: VS Code
   weight: 4
