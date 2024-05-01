@@ -17,45 +17,39 @@
 #     - tag: Rails
 #   timeline-side: right
 
-- title: airbnb
-  title-url: https://example.com/
-  date: Sep 2019 - Present
-  subtitle: Fullstack Developer
+- title: Berkeley Astro Research
+  title-url: https://astro.berkeley.edu/
+  date: Sept 2021 - May 2024
+  subtitle: Researcher
   tags:
-    - tag: React
-    - tag: Javascript
-    - tag: Ruby
-    - tag: Rails
+    - tag: SQL
+    - tag: Pytorch
+    - tag: Linear Algebra
+    - tag: Pymc
+    - tag: Pandas
+    - tag: Python
+    - tag: Machine Learning
   timeline-side: right
 
-- title: Google
-  title-url: https://example.com/
-  date: Mar 2019 - Sep 2019
-  subtitle: Software Engineer as Intern
+- title: UC Berkeley
+  title-url: https://guide.berkeley.edu/undergraduate/degree-programs/data-science/
+  date: Aug 2020 - Dec 2024
+  subtitle: B.A Data Science
   tags:
-    - tag: Flutter
-    - tag: Dart
-    - tag: Keycloak
-  timeline-side: right
-
-- title: Super University
-  title-url: https://example.com/
-  date: 2017 - 2019
-  subtitle: M.Sc. Computer Science
+    - tag: SQL
+    - tag: Linux
+    - tag: Java
+    - tag: Python
   timeline-side: left
 
-- title: Facebook
-  title-url: https://example.com/
-  date: Sep 2017 - Mar 2019
-  subtitle: Front-End Developer as Intern
+- title: UC Berkeley
+  title-url: https://guide.berkeley.edu/undergraduate/degree-programs/astrophysics/
+  date: Aug 2020 - Dec 2024
+  subtitle: B.A. Astrophysics
   tags:
-    - tag: React
-    - tag: Node
-    - tag: Javascript
+    - tag: Quantum Mechanics
+    - tag: Planetary Astrophysics
+    - tag: Stellar Physics
+    - tag: Cosmology
+    - tag: E&M/Dynamics
   timeline-side: right
-
-- title: Super University
-  title-url: https://example.com/
-  date: 2014 - 2017
-  subtitle: B.A. Computer Science
-  timeline-side: left
